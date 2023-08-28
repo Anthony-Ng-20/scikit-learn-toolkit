@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anthonyng/Desktop/VS_code/scikit-learn-toolkit/notebooks/mlruns/0/36599b1c94064beea7ee220733473042/artifacts
+end_time: 1693235202986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36599b1c94064beea7ee220733473042
+run_name: puzzled-pig-567
+run_uuid: 36599b1c94064beea7ee220733473042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693235200475
+status: 3
+tags: []
+user_id: anthonyng

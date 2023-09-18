@@ -19,5 +19,5 @@ save the best model
 
 # code to kill processes in ML Flow
 
-ps -A | grep gunicorn
-kill xxxxx xxxxx xxxxx
+* ps -A | grep gunicorn
+* kill xxxxx xxxxx xxxxx

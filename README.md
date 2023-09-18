@@ -16,3 +16,8 @@ https://pythonsimplified.com/how-to-use-k-fold-cv-and-gridsearchcv-with-sklearn-
 * https://www.youtube.com/watch?v=Oho53bvl4rg&ab_channel=PyData
 save the best model
 * https://stackoverflow.com/questions/34143829/sklearn-how-to-save-a-model-created-from-a-pipeline-and-gridsearchcv-using-jobli
+
+# code to kill processes in ML Flow
+
+ps -A | grep gunicorn
+kill xxxxx xxxxx xxxxx
